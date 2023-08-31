@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">Hello Folks 👋, I'm Nusair</h1>
 <h3 align="center">A self-taught DevOps Engineer</h3>
 
@@ -34,5 +35,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nusairc&theme=merko&hide_border=false)<br/>
 
-
-
+</div>
