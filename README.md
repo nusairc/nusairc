@@ -10,7 +10,7 @@
     
 
    <a href="https://www.credly.com/users/nusair-c/badges">
-  <img src="https://images.credly.com/size/680x680/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" width="10" alt="View my AWS Badges">
+  <img src="https://images.credly.com/size/680x680/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" width="50" alt="View my AWS Badges">
 </a>
 
  
