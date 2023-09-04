@@ -6,14 +6,12 @@
 
  👨‍🎓 I’m currently learning **Cloud,DevOps,AWS,Azure,Linux,Python,Django**
    
- 🔰 View my AWS Badges https://www.credly.com/users/nusair-c/badges
-    
-
-   <a href="https://www.credly.com/users/nusair-c/badges">
-  <img src="[https://images.credly.com/size/680x680/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogicmojo.com%2Faws-interview-questions&psig=AOvVaw0C4Y-pB047LIRb-QWlZ8sk&ust=1693905830198000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwikuc2L0ZCBAxVffGwGHdn2D-AQjRx6BAgAEAw)" width="100" alt="View my AWS Badges">
+ 🔰 
+ <a href="https://aws.amazon.com/?nc2=h_lg">
+  <img src="https://aws.amazon.com/favicon.ico" width="32" alt="AWS Logo">
 </a>
-
- 
+    View my AWS Badges https://www.credly.com/users/nusair-c/badges
+    
  💞️ I’m looking to collaborate on Open Source Projects...
 
  📫 you can reach me on **nusairtech@gmail.com**
