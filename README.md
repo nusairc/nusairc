@@ -8,7 +8,11 @@
    
  🔰 View my AWS Badges https://www.credly.com/users/nusair-c/badges
     
-   [![View my AWS Badges ](https://images.credly.com/size/680x680/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](https://www.credly.com/users/nusair-c/badges)
+
+   <a href="https://www.credly.com/users/nusair-c/badges">
+  <img src="https://images.credly.com/size/680x680/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" width="100" alt="View my AWS Badges">
+</a>
+
  
  💞️ I’m looking to collaborate on Open Source Projects...
 
