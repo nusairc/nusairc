@@ -7,8 +7,9 @@
  👨‍🎓 I’m currently learning **Cloud,DevOps,AWS,Azure,Linux,Python,Django**
    
  🔰 
-     [![AWS Logo](https://icons8.com/icon/33039/amazon-web-services)](https://www.credly.com/users/nusair-c/badges )
-    View my AWS Badges https://www.credly.com/users/nusair-c/badges
+    [![AWS Logo](https://img.icons8.com/color/96/000000/amazon-web-services.png)](https://aws.amazon.com/?nc2=h_lg)
+
+   View my AWS Badges https://www.credly.com/users/nusair-c/badges
     
  💞️ I’m looking to collaborate on Open Source Projects...
 
