@@ -8,7 +8,7 @@
  
 [![AWS Logo](https://img.icons8.com/color/16/000000/amazon-web-services.png)](https://www.credly.com/users/nusair-c/badges) View my AWS Badges https://www.credly.com/users/nusair-c/badges
 
-[![AWS Logo](https://icons8.com/icon/mHi46t5vguiz/amazon-aws)](https://www.credly.com/users/nusair-c/badges)
+[![AWS Logo](https://icons8.com/icon/mHi46t5vguiz/amazon-aws.png)](https://www.credly.com/users/nusair-c/badges)
 [Click here to view my AWS Badges](https://www.credly.com/users/nusair-c/badges)
 
     
