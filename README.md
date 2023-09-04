@@ -5,10 +5,14 @@
  👀 I’m interested in **Technology, Cloud Computing , DevOps, Linux and Python Django....**
 
  👨‍🎓 I’m currently learning **Cloud,DevOps,AWS,Azure,Linux,Python,Django**
-
+   
+ 🔰 View my AWS Badges https://www.credly.com/users/nusair-c/badges
+    
+    [![View my AWS Badges ](https://images.credly.com/size/680x680/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](https://www.credly.com/users/nusair-c/badges)
+ 
  💞️ I’m looking to collaborate on Open Source Projects...
 
- 📫  you can reach me on **nusairtech@gmail.com**
+ 📫 you can reach me on **nusairtech@gmail.com**
 
  🌍 visit https://nusairc.github.io/Personal-Site/
 
