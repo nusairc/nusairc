@@ -4,7 +4,7 @@
 
  👀 I’m interested in **Technology, Cloud Computing , DevOps, Linux and Python Django....**
 
- 👨‍🎓 I’m currently learning **Cloud,DevOps,AWS,Azure,Linux,Python,Django**
+ 👨‍🎓 I’m currently learning **Cloud,DevOps,AWS,Kubernetes,Linux,Python,Django**
  
  [![AWS Logo](https://img.icons8.com/color/16/000000/amazon-web-services.png)](https://www.credly.com/users/nusair-c/badges)  View my AWS Badges https://www.credly.com/users/nusair-c/badges
  
