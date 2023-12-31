@@ -2,9 +2,9 @@
 <h1 align="center">Hello Folks 👋, I'm Nusair</h1>
 <h3 align="center">A self-taught DevOps Engineer</h3>
 
- 👀 I’m interested in **Technology, AWS Cloud , DevOps, Linux and Python Django....**
+ 👀 I’m interested in **Technology, AWS Cloud , DevOps, Linux and Python...**
 
- 👨‍🎓 I’m currently learning **Cloud,DevOps,AWS,Kubernetes,Terraform,Linux,Python,Django**
+ 👨‍🎓 I’m currently learning **Cloud,DevOps,AWS,Kubernetes,Terraform,Linux,Python Django**
  
  [![AWS Logo](https://img.icons8.com/color/16/000000/amazon-web-services.png)](https://www.credly.com/users/nusair-c/badges)  View my AWS Badges https://www.credly.com/users/nusair-c/badges
  
